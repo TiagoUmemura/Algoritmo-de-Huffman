@@ -1,0 +1,13 @@
+Alunos: Nelson Vieira
+        Tiago Umemura
+
+Linguagem Lua
+
+Parte 1:
+A principal estrutura utilizada foi tables.
+Com Tables é possível implementar arrays e a árvore binária.
+O cabeçalho foi feito concatenando a letra com o binario correspondente
+e logo depois foi salvo o binário que representa a frase.
+A primeira linha sempre é o cabeçalho e a segunda é o binário
+Para compilar o código é utilizado o comando lua aps.lua 1 ou lua aps.lua 2, 1 para
+compactar e 2 para descompactar.
